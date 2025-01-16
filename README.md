@@ -51,7 +51,7 @@
 ---
 
 ### 📫 Connect with Me:
-- **Email:** [saurabhwadekar@example.com](mailto:saurabhwadekar@example.com)  
+- **Email:** [saurabhwadekar420@gmail.com](mailto:saurabhwadekar420@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/saurabhwadekar](https://linkedin.com/in/saurabhwadekar)  
 - **GitHub:** [github.com/saurabhwadekar](https://github.com/saurabhwadekar)  
 

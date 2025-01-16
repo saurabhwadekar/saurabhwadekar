@@ -15,11 +15,22 @@
 ---
 
 ### 📚 My Skills:
-- **Languages:** Python, Dart, Rust  
-- **Frameworks & Tools:** Django, Flutter, Flet, Supabase, GetX, FletX  
-- **Databases:** PostgreSQL, Supabase  
-- **Other:** Web & Mobile App Development, Open Source Contribution  
+- **Languages:**
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+  - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  
+- **Frameworks & Tools:**
+  - ![Django](https://img.shields.io/badge/Django-092D1F?style=flat-square&logo=django&logoColor=white)
+  - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+  - ![Flet](https://img.shields.io/badge/Flet-000000?style=flat-square&logo=flet&logoColor=white)
+  - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+  - ![GetX](https://img.shields.io/badge/GetX-000000?style=flat-square&logo=getx&logoColor=white)
+  - ![FletX](https://img.shields.io/badge/FletX-000000?style=flat-square&logo=flet&logoColor=white)
 
+- **Databases:**
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+  
 ---
 
 ### 📦 Featured Projects:

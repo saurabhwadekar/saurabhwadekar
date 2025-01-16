@@ -45,9 +45,9 @@
 ![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhwadekar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhwadekar&layout=compact&theme=radical)  
 
-### 📈 GitHub Contribution Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=saurabhwadekar&theme=radical)  
 
+### 📈 GitHub Contribution Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabhwadekar&theme=radical)
 ---
 
 ### 📫 Connect with Me:

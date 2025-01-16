@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saurabh Wadekar
 
-**Django, Python, Flutter, and Flet Developer | Open Source Contributor | Self-Learner**  
+**Django, Python, Flutter, Flet, and Rust Developer | Open Source Contributor | Self-Learner**  
 
 ---
 
@@ -10,11 +10,12 @@
 - 🛠️ Skilled in **Database Management, API Integration, and UI/UX Design.**  
 - 🎯 Focused on **Creating Scalable Applications and Enhancing User Experience.**  
 - 📖 **Self-Learner** dedicated to continuous improvement and exploring new technologies.  
+- ⚙️ Currently learning **Rust** for low-level programming and systems development.
 
 ---
 
 ### 📚 My Skills:
-- **Languages:** Python, Dart  
+- **Languages:** Python, Dart, Rust  
 - **Frameworks & Tools:** Django, Flutter, Flet, Supabase, GetX, FletX  
 - **Databases:** PostgreSQL, Supabase  
 - **Other:** Web & Mobile App Development, Open Source Contribution  
@@ -25,6 +26,7 @@
 - **[PyCrack](https://github.com/saurabhwadekar/pycrack)** – A Python-based password cracking tool supporting multiple attack methods.  
 - **[FletX](https://github.com/saurabhwadekar/FletX)** – A dynamic routing library for the Flet framework.  
 - **CNC Programmer Pro** – A professional CNC programming mobile app built with Flutter.  
+- **CNC Lathe Calc** – A Flutter app designed to calculate and optimize CNC lathe operations.
 
 ---
 
@@ -34,11 +36,6 @@
 
 ### 📈 GitHub Contribution Streak:
 ![GitHub Streak](https://streak-stats.demolab.com?user=saurabhwadekar&theme=radical)  
-
----
-
-### 🎬 Animation:
-![Coding Animation](https://media.giphy.com/media/3o6gE5XjfvByKMXTOo/giphy.gif)  
 
 ---
 

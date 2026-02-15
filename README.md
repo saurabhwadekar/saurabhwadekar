@@ -52,7 +52,7 @@
 
 ### 📫 Connect with Me:
 - **Email:** [saurabhwadekar420@gmail.com](mailto:saurabhwadekar420@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/saurabhwadekar](https://linkedin.com/in/saurabh-wadekar-2a2244225)  
+- **LinkedIn:** [linkedin.com/in/saurabh-wadekar-2a2244225](https://linkedin.com/in/saurabh-wadekar-2a2244225)  
 - **GitHub:** [github.com/saurabhwadekar](https://github.com/saurabhwadekar)  
 
 ---
